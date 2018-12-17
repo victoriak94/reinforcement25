@@ -121,4 +121,4 @@ def display_views(hash)
   end
 end
 
-p display_views(articles)
+display_views(articles)
